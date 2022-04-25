@@ -1,3 +1,2 @@
 # repos
-repos repos
-this is a repo of repos
+type of a repo
